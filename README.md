@@ -18,7 +18,6 @@
   3. Real Computing Mod - OBRIGATÓRIO - Baixe o mod antes de carregar o mapa
 
   ⚠️ IMPORTANTE: Este mapa NÃO FUNCIONARÁ sem o Real Computing Mod instalado! Os blocos customizados não serão carregados corretamente.
-  <a href="https://github.com/DiogoMarassi/Real-Computing-Mod-1.21.X-2" target="_blank">
-  <p align="center">Você pode encontrar o mod para baixar neste link</p></a>
+  Você pode encontrar o mod para baixar neste link: https://github.com/DiogoMarassi/Real-Computing-Mod-1.21.X-2
 
   Fique à vontade para fazer modificações no mod e aprimorá-lo.
